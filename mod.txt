@@ -1,0 +1,13 @@
+{
+    "name": "鳴風 HUD",
+    "description": "Minimal PAYDAY 2 HUD",
+    "author": "Jarweis",
+    "version": "0.0.1",
+    "blt_version": 2,
+    "hooks": [
+        {
+            "hook_id": "lib/managers/hudmanagerpd2",
+            "script_path": "Core.lua"
+        }
+    ]
+}
